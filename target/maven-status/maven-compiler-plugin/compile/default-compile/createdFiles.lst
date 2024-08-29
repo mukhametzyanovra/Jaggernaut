@@ -1,0 +1,5 @@
+org/example/Main.class
+org/example/service/ClientService.class
+org/example/model/Client.class
+org/example/service/ClientServiceImpl.class
+org/example/conroller/ClientController.class
